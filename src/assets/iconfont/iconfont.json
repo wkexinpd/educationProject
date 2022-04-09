@@ -1,0 +1,30 @@
+{
+  "id": "923564",
+  "name": "abc",
+  "font_family": "element-icons",
+  "css_prefix_text": "el-icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "978358",
+      "name": "浏览",
+      "font_class": "view-fwj",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "1082876",
+      "name": "常用回复2",
+      "font_class": "reply-fwj",
+      "unicode": "e690",
+      "unicode_decimal": 59024
+    },
+    {
+      "icon_id": "6119287",
+      "name": "赞-实色",
+      "font_class": "nice-fwj",
+      "unicode": "e639",
+      "unicode_decimal": 58937
+    }
+  ]
+}
